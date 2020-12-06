@@ -1,6 +1,4 @@
 # Student Result Management System
-</br>
-
 # How to run the project
 
 ```
@@ -19,4 +17,10 @@ username : admin
 </br>
 password : Test@123
 
-
+# Output Screenshots
+![srms1](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms1.png?raw=true)
+![srms2](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms2.png?raw=true)
+![srms3](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms3.png?raw=true)
+![srms4](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms4.png?raw=true)
+![srms5](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms5.png?raw=true)
+![srms6](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms6.png?raw=true)
