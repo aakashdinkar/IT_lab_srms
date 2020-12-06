@@ -1,5 +1,6 @@
-# Student Result Management System
-# How to run the project
+## Internet Technology Assignment
+### Student Result Management System
+### How to run the project
 
 ```
 git clone https://github.com/aakashdinkar/IT_lab_srms.git
@@ -12,12 +13,12 @@ Create Database srms
 Import srms.sql from IT_lab_srms
 </br>
 
-## Admin Details
+### Admin Details
 username : admin
 </br>
 password : Test@123
 
-# Output Screenshots
+## Output
 ![srms1](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms1.png?raw=true)
 ![srms2](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms2.png?raw=true)
 ![srms3](https://github.com/aakashdinkar/IT_lab_srms/blob/master/datafiles/srms3.png?raw=true)
